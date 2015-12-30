@@ -1,0 +1,7 @@
+To get these files download like so....
+wget -r --user="unsw_bullchrist" --password="empty" ftp://ftp.aviso.altimetry.fr/global/delayed-time/grids/madt/all-sat-merged/* ./
+
+Also have a look at:
+http://www.aviso.altimetry.fr/index.php?id=1271&L=1
+
+see email from aviso@altimetry.fr for account details on 7/7/14
